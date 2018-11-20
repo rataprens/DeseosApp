@@ -10,7 +10,7 @@ Ejemplo de una aplicacion de deseos creada en Ionic 3
 
 ### Agregar Tarea a la Lista
 
-![deseosapp_agregaritem](https://user-images.githubusercontent.com/19628502/48794491-e2fb2100-ecd8-11e8-8c0f-b8a1ff299488.gif)
+![deseosapp_agregaritem2](https://user-images.githubusercontent.com/19628502/48794838-de833800-ecd9-11e8-8931-2c7f3c9a05f5.gif)
 
 ### Completar Tareas
 
